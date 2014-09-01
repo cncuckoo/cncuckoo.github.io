@@ -260,7 +260,7 @@ p.author {
 
 html { background: black; }
 body {
-  margin: 0px 0px 10px 150px;
+  margin: 0px 0px 10px 190px;
   padding: 0px;
 }
 
@@ -273,7 +273,7 @@ body>#menu {  /* this selector is a hack to hide "fixed" from IE */
   position: fixed; 
 }
 
-#menu { top: 0px; left: 0px; width: 130px;  }
+#menu { top: 0px; left: 0px; width: 170px;  }
 #menu { padding: 10px 10px 10px;  color: white; background: #000; font-size: 12px; font-weight: bold; font-family: sans-serif  }
 #menu ul { margin: 0px; padding: 0px }
 #menu ul ul { margin-left: 10px;  }
